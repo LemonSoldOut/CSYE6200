@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  * 
- * @author cheng
- * @date 1.17.2023
- * @description 2^x: x from 1 to 32
+ * @author lemon
+ * @date 1.19.2023
+ * @description get input double value
  */
 public class Exercise02 {
 
