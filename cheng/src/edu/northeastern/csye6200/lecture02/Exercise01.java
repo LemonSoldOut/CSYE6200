@@ -16,7 +16,7 @@ public class Exercise01 {
         try (Scanner input = new Scanner(System.in)) {
 			int count = 0;
 			int totalNumber = 0;
-			
+			System.out.println("Enter number(not number will end this program):\t");
 			while(input.hasNextInt()) {
 			    count += 1;
 			    totalNumber += input.nextInt();
